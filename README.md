@@ -1,4 +1,4 @@
-# House Price Prediction — ML Classification Project
+# House Price Prediction — ML Regression Project
 
 ## Overview
 This project predicts whether a house falls in a **Low**, **Medium**, or **High** price category using machine learning classification techniques. The dataset used is the Ames Housing Dataset which contains information about houses sold in Ames, Iowa.
